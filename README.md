@@ -18,6 +18,4 @@ For each partition `'chemprot_training'`, `'chemprot_development'`, and `'chempr
 
 ```
 python chemprot_to_standoff.py -i <original_chemprot_partition_filepath> -o <standoff_chemprot_partition_filepath>
-```.
-
-
+```
